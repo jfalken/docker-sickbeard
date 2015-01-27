@@ -12,6 +12,14 @@ The dockerfile will `git clone` the [current version of sickbeard](https://githu
 
 ## Building
 
+### Dockerhub
+
+There is also a dockerhub repo ( https://registry.hub.docker.com/u/jfalken/docker-sickbeard/ )
+
+You can obtain this simply via `docker pull jfalken/docker-sickbeard`
+
+### GitHub
+
 1. Clone this repo
 2. inside the repo directory, build the image
 
