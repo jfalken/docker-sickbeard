@@ -29,6 +29,8 @@ For example:
 	
 If our build produced an image id of `13ebd`, this command executes the image `13ebd`, maps port `8081` to your localhost and maps the `/blackhole` folder inside the container to `~/blackhole` on your host.
 
+Make sure to adjust your config to the proper blackhole folder (`/blackhole` in this example).
+
 ## Copying and existing installation
 
 If you don't want to recreate all your config and files setup, you can copy your existing config details into the running container.
