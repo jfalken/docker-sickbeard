@@ -39,7 +39,7 @@ If our build produced an image id of `13ebd`, this command executes the image `1
 
 Make sure to adjust your config to the proper blackhole folder (`/blackhole` in this example).
 
-## Copying and existing installation
+## Copying an existing installation
 
 If you don't want to recreate all your config and files setup, you can copy your existing config details into the running container.
 
